@@ -5,7 +5,7 @@
 //  Created by Asritha Bodepudi on 5/9/22.
 //
 
-@testable import Wallet
+@testable import MyWallet
 import XCTest
 
 class ValidationServiceTests: XCTestCase {
